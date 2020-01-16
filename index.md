@@ -1,1 +1,9 @@
-
+<!doctype html>
+<html>
+  <head>
+    <title>Welcome to Kuras.io</title>
+  </head>
+  <body>
+    <p>This is an example paragraph</p>
+  </body>
+</html>
