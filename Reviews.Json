@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "product": "Smartphone XYZ",
+    "review": "This is an amazing smartphone with great features..."
+  },
+  {
+    "id": 2,
+    "product": "Laptop ABC",
+    "review": "A perfect laptop for professionals..."
+  }
+  // ... more reviews
+]
